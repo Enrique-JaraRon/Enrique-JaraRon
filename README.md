@@ -10,7 +10,7 @@ I am currently looking for a **2027 market finance internship**, with a particul
 
 ## 📊 Featured Projects
 
-### 🔹 ARIA — Adaptive Risk Intelligence & Analytics
+### 🔹 [ARIA — Adaptive Risk Intelligence & Analytics](https://github.com/Enrique-JaraRon/ARIA)
 
 A quantitative portfolio-risk and derivatives analytics platform developed in Python and Streamlit.
 
@@ -27,7 +27,7 @@ A quantitative portfolio-risk and derivatives analytics platform developed in Py
 
 **Tech:** Python · NumPy · Pandas · SciPy · Streamlit · Pytest
 
-> Repository currently maintained as part of my quantitative finance portfolio.
+➡️ **[View the project](https://github.com/Enrique-JaraRon/ARIA)**
 
 ---
 
