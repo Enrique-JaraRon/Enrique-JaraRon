@@ -47,7 +47,7 @@ Current topics include:
 
 ---
 
-### 🔹 Derivatives Pricing & Numerical Methods
+### 🔹 [Derivatives Pricing & Numerical Methods](https://github.com/Enrique-JaraRon/Enrique-JaraRon/tree/main/projects/derivatives-pricing-engine)
 
 Implementation and study of quantitative methods used in derivatives pricing and financial engineering.
 
@@ -62,9 +62,11 @@ Topics include:
 
 **Tech:** Python · C++ · Probability · Numerical Methods
 
+➡️ **[View the project](https://github.com/Enrique-JaraRon/Enrique-JaraRon/tree/main/projects/derivatives-pricing-engine)**
+
 ---
 
-### 🔹 Market Risk & VaR Analytics
+### 🔹 [Market Risk & VaR Analytics](https://github.com/Enrique-JaraRon/Enrique-JaraRon/tree/main/projects/market-risk-var)
 
 Statistical market-risk analysis comparing several Value-at-Risk methodologies.
 
@@ -76,6 +78,8 @@ Statistical market-risk analysis comparing several Value-at-Risk methodologies.
 - Statistical risk analysis
 
 **Tech:** Python · Pandas · SciPy · Statistics
+
+➡️ **[View the project](https://github.com/Enrique-JaraRon/Enrique-JaraRon/tree/main/projects/market-risk-var)**
 
 ---
 
