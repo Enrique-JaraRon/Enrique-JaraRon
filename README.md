@@ -3,54 +3,82 @@
 **Financial Engineering (M1, research track) · ESILV**  
 **Applied Economics · Université Paris-Dauphine – PSL**
 
-I build Python-based tools for **derivatives pricing, portfolio analytics, market risk and quantitative research**. My interests lie at the intersection of mathematical modelling, financial markets and software engineering.
+I work at the intersection of **quantitative finance, global markets and Python development**, with a focus on turning financial models into practical research and risk-analysis tools.
 
-**Seeking a 5–6-month internship starting around April 2027**, ideally in quantitative finance, trading, structuring, market risk or trade analytics.
+**Seeking a 5–6-month internship from around April 2027** in quantitative research, trading, structuring, market risk or trade analytics.
 
-## Selected projects
+## Featured work
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| **[ARIA — Portfolio Risk & Options Analytics](https://github.com/Enrique-JaraRon/ARIA)** | Interactive analytics for European options, Greeks, implied volatility, portfolio VaR / Expected Shortfall, stress scenarios and risk reporting | Python, Streamlit, NumPy, SciPy, Pandas |
-| **[Derivatives Pricing & Numerical Methods](projects/derivatives-pricing-engine/)** | Black–Scholes, put–call parity, implied volatility by bisection, binomial trees, Monte Carlo and a C++ pricing example | Python, C++, NumPy, SciPy |
-| **[Market Risk & VaR Analytics](projects/market-risk-var/)** | Historical, Gaussian and kernel-density VaR, empirical Expected Shortfall and exception-rate diagnostics | Python, NumPy, SciPy |
-| **[Parkinson's Prediction Hackathon — Team Documentation](https://github.com/Enrique-JaraRon/Hackathon-IBM-Parkinson)** | Team machine-learning challenge with patient-grouped validation, experiment tracking and methodological review | Machine learning, regression, grouped cross-validation |
+### 01 · [ARIA — Portfolio Risk & Options Analytics](https://github.com/Enrique-JaraRon/ARIA)
 
-### ARIA — flagship project
+**Personal Python project · Quantitative Finance / Derivatives / Market Risk**
 
-ARIA is a modular **options and portfolio-risk analysis application**. It connects pricing models to practical risk workflows: position-level sensitivities, simulated risk, historical/custom shocks and PDF reporting.
+A Streamlit application bringing together **European option pricing, implied volatility, Greeks, portfolio VaR and Expected Shortfall, Monte Carlo simulation, stress tests and PDF reporting**.
 
-- **Pricing:** European call/put Black–Scholes, implied volatility and first-/second-order sensitivities.
-- **Risk:** VaR, Expected Shortfall, scenario analysis, correlation and portfolio P&L.
-- **Engineering:** Python modules for pricing/risk, Streamlit interface and an automated test workflow.
+- Built a modular **pricing, portfolio and risk-analysis architecture** in Python.
+- Connected analytical methods to an interactive interface with portfolio sensitivities, P&L scenarios and risk reporting.
+- Added **unit tests, linting and GitHub Actions** for software-quality checks.
 
-[Explore the code, screenshots and setup instructions →](https://github.com/Enrique-JaraRon/ARIA)
+**Tools:** Python · NumPy · Pandas · SciPy · Streamlit · Pytest
 
-## Research and current work
+[**Explore ARIA — code, screenshots and setup →**](https://github.com/Enrique-JaraRon/ARIA)
 
-**Robust covariance estimation — research track (ongoing)**  
-Studying covariance estimation under **heavy-tailed returns and heteroskedasticity**, including robust estimation, pairwise-difference constructions, truncation and positive-semidefinite matrix projection. The aim is to assess estimator behaviour across different data regimes and its relevance to portfolio risk. *Research in progress; no public implementation is linked here.*
+### 02 · [Bloomberg Global Trading Challenge 2026](projects/bloomberg-global-trading-challenge-2026/)
 
-**Bloomberg Global Trading Challenge 2026 — team captain (ongoing)**  
-Working with a team on a **long-only global equities strategy**, combining statistical return signals, tail-event modelling, covariance shrinkage and portfolio constraints. *The collaborative research/code repository is private; this is not presented as a public reproducible project.*
+**Team captain · Systematic Equities / Portfolio Construction · Ongoing**
 
-## Technical toolkit
+Leading and contributing to an ESILV team project involving **quantitative equity signals, portfolio construction, benchmark-relative performance evaluation and risk management** in a live simulated competition.
 
-- **Programming:** Python, C++, SQL
-- **Scientific computing:** NumPy, Pandas, SciPy, scikit-learn, numerical optimisation, Monte Carlo
-- **Financial methods:** Black–Scholes, option Greeks, implied volatility, VaR / Expected Shortfall, stress testing, portfolio risk
-- **Software:** Git/GitHub, Streamlit, Pytest
+- Participating in **signal research, validation and market/portfolio analysis**.
+- Coordinating team contributions, research review and portfolio decision-making.
+- Applying Python-based modelling and risk concepts within practical investment constraints.
+
+**Tools:** Python · Statistical Modelling · Portfolio Risk · Git/GitHub
+
+[**Read the public project overview →**](projects/bloomberg-global-trading-challenge-2026/)
+
+*The collaborative strategy and code repository remain private during the competition; no final performance claim is made.*
+
+### 03 · [Robust Covariance Estimation for Financial Returns](research/robust-covariance-estimation/)
+
+**Financial Engineering research track · Robust Statistics / Portfolio Risk · Ongoing**
+
+Researching covariance estimation under **heavy-tailed returns, heteroskedasticity and extreme observations**, motivated by the stability of covariance inputs used in portfolio risk and optimisation.
+
+- Studying **pairwise-difference / U-statistic constructions, truncation and PSD projection**.
+- Examining the interpretation of **entrywise versus spectral concentration guarantees**.
+- Preparing an empirical comparison of classical and robust covariance estimators across data regimes.
+
+**Methods:** Probability · Statistics · Matrix Estimation · Python (planned experiments)
+
+[**Read the research brief and methodology →**](research/robust-covariance-estimation/)
+
+*Research in progress; the public brief documents the problem and methods under study, not completed experimental results.*
+
+## Technical skills
+
+**Python & software:** Python · C++ · SQL · Pandas · NumPy · SciPy · scikit-learn · Git/GitHub · Pytest · Streamlit
+
+**Quantitative methods:** Option Pricing · Greeks · Monte Carlo · VaR / Expected Shortfall · Stress Testing · Statistical Learning · Covariance Estimation · Portfolio Optimisation
 
 ## Education
 
-- **ESILV — École Supérieure d'Ingénieurs Léonard de Vinci:** M1 / 4th year, Financial Engineering, research track (2026–2027).
+- **ESILV:** M1 / 4th year, Financial Engineering — research track (2026–2027).
 - **Université Paris-Dauphine – PSL:** L3 Applied Economics, *Mention Bien* (2025–2026).
-- **California State University, Long Beach:** International academic exchange (six months).
+- **California State University, Long Beach:** Six-month academic exchange.
+
+<details>
+<summary><strong>Additional coursework and machine-learning projects</strong></summary>
+
+- [Derivatives Pricing & Numerical Methods](projects/derivatives-pricing-engine/) — standalone Black–Scholes, binomial-tree and Monte Carlo implementations (Python / C++).
+- [Market Risk & VaR Analytics](projects/market-risk-var/) — empirical, Gaussian and kernel-based VaR examples.
+- [Parkinson's Prediction Hackathon](https://github.com/Enrique-JaraRon/Hackathon-IBM-Parkinson) — public methodological documentation from a team machine-learning project.
+- [ESILV MarketPulse](https://github.com/Enrique-JaraRon/esilv-marketpulse-g03-t07) — collaborative educational fork for Python, Git and market-data exercises.
+
+</details>
 
 ## Contact
 
 [Email](mailto:enrique.jararon@gmail.com) · [GitHub](https://github.com/Enrique-JaraRon)
 
----
-
-*Projects are educational/research-oriented. Where code or results are not public, this is stated explicitly.*
+*Public descriptions distinguish working research from released and reproducible code.*
