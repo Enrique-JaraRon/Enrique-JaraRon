@@ -23,21 +23,22 @@ A Streamlit application bringing together **European option pricing, implied vol
 
 [**Explore ARIA — code, screenshots and setup →**](https://github.com/Enrique-JaraRon/ARIA)
 
-### 02 · [Bloomberg Global Trading Challenge 2026](projects/bloomberg-global-trading-challenge-2026/)
+### 02 · [Bloomberg Global Trading Challenge 2026 — Quant Lab](https://github.com/thomasdgn/bloomberg-trading-challenge-quant-lab)
 
-**Team captain · Systematic Equities / Portfolio Construction · Ongoing**
+**Team captain · Systematic Equities / Quantitative Research / Portfolio Construction · Ongoing**
 
-Leading and contributing to an ESILV team project involving **quantitative equity signals, portfolio construction, benchmark-relative performance evaluation and risk management** in a live simulated competition.
+Our team's **actual research and code repository**, maintained under [Thomas's GitHub account](https://github.com/thomasdgn), contains the collaborative quantitative workflow for the Bloomberg Global Trading Challenge. It is the central project workspace—not a standalone presentation page.
 
-- Participating in **signal research, validation and market/portfolio analysis**.
-- Coordinating team contributions, research review and portfolio decision-making.
-- Applying Python-based modelling and risk concepts within practical investment constraints.
+- **Alpha modelling:** cross-sectional Elastic Net signals and exploratory tail-event models, with walk-forward validation.
+- **Risk & allocation:** Ledoit–Wolf covariance estimation and benchmark-aware, long-only constrained portfolio construction.
+- **Research engineering:** Python pipelines, backtesting, data controls, documentation and shared Git workflows.
+- **My role:** team captain, coordinating quantitative research, validation and portfolio reviews.
 
-**Tools:** Python · Statistical Modelling · Portfolio Risk · Git/GitHub
+**Stack:** Python · Pandas · NumPy · scikit-learn · Portfolio Optimisation · Bloomberg Data · Git
 
-[**Read the public project overview →**](projects/bloomberg-global-trading-challenge-2026/)
+**[→ Open the complete Bloomberg team repository (thomasdgn)](https://github.com/thomasdgn/bloomberg-trading-challenge-quant-lab)**
 
-*The collaborative strategy and code repository remain private during the competition; no final performance claim is made.*
+*Important: this shared repository is currently **private**. Its source code and files are visible only to authorised GitHub users; a recruiter without access will not be able to open it. [Public project summary](projects/bloomberg-global-trading-challenge-2026/) is available without access. Competition results are not claimed before verification.*
 
 ### 03 · [Robust Covariance Estimation for Financial Returns](research/robust-covariance-estimation/)
 
