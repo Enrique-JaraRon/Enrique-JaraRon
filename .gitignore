@@ -1,0 +1,23 @@
+# Python environment and transient files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Local build / editor artifacts
+*.exe
+*.o
+*.obj
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
